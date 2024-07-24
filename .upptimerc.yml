@@ -8,7 +8,7 @@ sites:
   - name: Leetc
     url: https://leetc.com
   - name: FLHSMV
-    url: https://flhsmv.gov
+    url: https://www.flhsmv.gov/
   - name: Paylocity
     url: https://access.paylocity.com
   - name: LeePA
@@ -18,11 +18,11 @@ sites:
   - name: USPS
     url: https://usps.com
   - name: LeeClerk
-    url: https://Leeclerk.org
+    url: https://www.leeclerk.org/
   - name: Collier Appraiser
-    url: https://CollierAppraise.com
+    url: https://www.collierappraiser.com/
   - name: Knowb4
-    url: https://training.knowb4.com
+    url: https://training.knowbe4.com/ui/login?logout=true
   - name: FLorida Department of Revenue
     url: https://floridarevenue.com
   - name: FWC POS
