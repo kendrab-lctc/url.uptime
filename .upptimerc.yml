@@ -9,6 +9,25 @@ sites:
     url: https://leetc.com
   - name: FLHSMV
     url: https://flhsmv.gov
+  - name: Paylocity
+    url: https://access.paylocity.com
+  - name: LeePA
+    url: https://Leepa.org
+  - name: SunBiz
+    url: https://sunbiz.org
+  - name: USPS
+    url: https://usps.com
+  - name: LeeClerk
+    url: https://Leeclerk.org
+  - name: Collier Appraiser
+    url: https://CollierAppraise.com
+  - name: Knowb4
+    url: https://training.knowb4.com
+  - name: FLorida Department of Revenue
+    url: https://floridarevenue.com
+  - name: FWC POS
+    url: https://gooutdoorsflorida.com
+    
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
