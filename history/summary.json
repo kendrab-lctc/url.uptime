@@ -42,18 +42,19 @@
     "url": "https://www.flhsmv.gov/",
     "icon": "https://icons.duckduckgo.com/ip3/www.flhsmv.gov.ico",
     "slug": "flhsmv",
-    "status": "up",
-    "uptime": "40.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "77.85%",
-    "uptimeMonth": "40.85%",
-    "uptimeYear": "40.85%",
+    "status": "down",
+    "uptime": "41.23%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "79.11%",
+    "uptimeMonth": "41.23%",
+    "uptimeYear": "41.23%",
     "time": 736,
     "timeDay": 473,
     "timeWeek": 736,
     "timeMonth": 736,
     "timeYear": 736,
     "dailyMinutesDown": {
+      "2024-08-07": 1,
       "2024-08-01": 942,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
@@ -154,7 +155,7 @@
     "timeMonth": 358,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2024-08-07": 149,
+      "2024-08-07": 277,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
@@ -216,9 +217,9 @@
     "url": "https://floridarevenue.com",
     "icon": "https://icons.duckduckgo.com/ip3/floridarevenue.com.ico",
     "slug": "f-lorida-department-of-revenue",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -227,7 +228,9 @@
     "timeWeek": 818,
     "timeMonth": 791,
     "timeYear": 791,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-07": 0
+    }
   },
   {
     "name": "FWC POS",
