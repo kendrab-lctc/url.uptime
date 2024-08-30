@@ -43,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.flhsmv.gov.ico",
     "slug": "flhsmv",
     "status": "up",
-    "uptime": "78.24%",
+    "uptime": "78.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.41%",
-    "uptimeYear": "78.24%",
+    "uptimeMonth": "92.07%",
+    "uptimeYear": "78.36%",
     "time": 1166,
     "timeDay": 692,
     "timeWeek": 2879,
@@ -88,9 +88,9 @@
     "url": "https://Leepa.org",
     "icon": "https://icons.duckduckgo.com/ip3/leepa.org.ico",
     "slug": "lee-pa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -99,7 +99,9 @@
     "timeWeek": 1511,
     "timeMonth": 1449,
     "timeYear": 1707,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-30": 0
+    }
   },
   {
     "name": "SunBiz",
@@ -157,7 +159,7 @@
     "timeMonth": 384,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2024-08-30": 58,
+      "2024-08-30": 347,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
