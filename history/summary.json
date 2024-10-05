@@ -45,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.flhsmv.gov.ico",
     "slug": "flhsmv",
     "status": "up",
-    "uptime": "89.08%",
+    "uptime": "89.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.08%",
+    "uptimeYear": "89.10%",
     "time": 906,
     "timeDay": 507,
     "timeWeek": 620,
@@ -133,9 +133,9 @@
     "url": "https://usps.com",
     "icon": "https://icons.duckduckgo.com/ip3/usps.com.ico",
     "slug": "usps",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -144,7 +144,9 @@
     "timeWeek": 1080,
     "timeMonth": 531,
     "timeYear": 491,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-05": 0
+    }
   },
   {
     "name": "LeeClerk",
@@ -163,7 +165,7 @@
     "timeMonth": 368,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2024-10-05": 60,
+      "2024-10-05": 262,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
