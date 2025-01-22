@@ -29,7 +29,7 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.80%",
     "time": 3437,
-    "timeDay": 3936,
+    "timeDay": 4493,
     "timeWeek": 3539,
     "timeMonth": 3566,
     "timeYear": 3437,
@@ -188,7 +188,7 @@
     "timeMonth": 438,
     "timeYear": 391,
     "dailyMinutesDown": {
-      "2025-01-22": 62,
+      "2025-01-22": 323,
       "2025-01-21": 1440,
       "2025-01-20": 1440,
       "2025-01-19": 1440,
@@ -378,9 +378,9 @@
     "url": "https://www.collierappraiser.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.collierappraiser.com.ico",
     "slug": "collier-appraiser",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -390,6 +390,7 @@
     "timeMonth": 465,
     "timeYear": 491,
     "dailyMinutesDown": {
+      "2025-01-22": 0,
       "2024-11-30": 36,
       "2024-11-29": 21,
       "2024-07-24": 16
