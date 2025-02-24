@@ -195,7 +195,8 @@
     "timeMonth": 374,
     "timeYear": 392,
     "dailyMinutesDown": {
-      "2025-02-23": 1416,
+      "2025-02-24": 64,
+      "2025-02-23": 1440,
       "2025-02-22": 1440,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
@@ -462,18 +463,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/floridarevenue.com.ico",
     "slug": "f-lorida-department-of-revenue",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 821,
     "timeDay": 714,
     "timeWeek": 690,
     "timeMonth": 730,
     "timeYear": 821,
     "dailyMinutesDown": {
-      "2025-02-23": 13,
       "2024-12-04": 19,
       "2024-11-19": 17
     }
