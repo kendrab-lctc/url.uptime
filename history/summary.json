@@ -24,12 +24,12 @@
     "slug": "leetc",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "92.19%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.88%",
     "uptimeMonth": "98.82%",
     "uptimeYear": "99.67%",
     "time": 3437,
-    "timeDay": 2112,
+    "timeDay": 4968,
     "timeWeek": 2897,
     "timeMonth": 3371,
     "timeYear": 3437,
@@ -203,7 +203,7 @@
     "timeMonth": 347,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2025-04-08": 67,
+      "2025-04-08": 772,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
@@ -513,9 +513,9 @@
     "url": "https://floridarevenue.com",
     "icon": "https://icons.duckduckgo.com/ip3/floridarevenue.com.ico",
     "slug": "f-lorida-department-of-revenue",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -525,6 +525,7 @@
     "timeMonth": 809,
     "timeYear": 821,
     "dailyMinutesDown": {
+      "2025-04-08": 0,
       "2024-12-04": 19,
       "2024-11-19": 17
     }
