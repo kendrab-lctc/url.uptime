@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 113,
-    "timeDay": 116,
-    "timeWeek": 124,
-    "timeMonth": 113,
-    "timeYear": 113,
-    "dailyMinutesDown": {}
+    "time": 114,
+    "timeDay": 246,
+    "timeWeek": 155,
+    "timeMonth": 121,
+    "timeYear": 114,
+    "dailyMinutesDown": {
+      "2025-04-25": 0
+    }
   },
   {
     "name": "Leetc",
@@ -205,7 +207,7 @@
     "timeMonth": 346,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2025-04-25": 69,
+      "2025-04-25": 691,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
