@@ -143,9 +143,9 @@
     "url": "https://sunbiz.org",
     "icon": "https://icons.duckduckgo.com/ip3/sunbiz.org.ico",
     "slug": "sun-biz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "73.63%",
+    "uptimeDay": "73.69%",
     "uptimeWeek": "96.23%",
     "uptimeMonth": "99.13%",
     "uptimeYear": "99.80%",
@@ -155,6 +155,7 @@
     "timeMonth": 727,
     "timeYear": 704,
     "dailyMinutesDown": {
+      "2025-05-01": 0,
       "2025-04-30": 380,
       "2025-03-29": 22,
       "2024-12-18": 33,
@@ -206,7 +207,7 @@
     "timeMonth": 389,
     "timeYear": 386,
     "dailyMinutesDown": {
-      "2025-05-01": 76,
+      "2025-05-01": 274,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
