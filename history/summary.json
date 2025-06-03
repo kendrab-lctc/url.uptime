@@ -118,9 +118,9 @@
     "url": "https://Leepa.org",
     "icon": "https://icons.duckduckgo.com/ip3/leepa.org.ico",
     "slug": "lee-pa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.75%",
@@ -130,6 +130,7 @@
     "timeMonth": 2327,
     "timeYear": 1450,
     "dailyMinutesDown": {
+      "2025-06-03": 0,
       "2025-05-14": 22,
       "2025-03-16": 28,
       "2025-03-15": 46,
@@ -217,7 +218,7 @@
     "timeMonth": 403,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2025-06-03": 73,
+      "2025-06-03": 278,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
       "2025-05-31": 1440,
